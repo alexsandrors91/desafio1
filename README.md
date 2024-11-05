@@ -1,3 +1,3 @@
-# Desafio 1 da dnc
+https://app.netlify.com/sites/desafio1alxdnc/overview
 
-Foi desenvolvido uma landing page de acordo com o estilo mostrado no figma.
+Primeiro desafio da DNC seguindo o layout do figma
